@@ -86,6 +86,6 @@ SELECT
 FROM NHANVIEN
 
 UPDATE NHANVIEN
-SET Salary=2000, JobTitle=N'Chuyên viên phân tích rủi ro'
+SET Salary=2000, JobTitle=N'Chuyên viên phân tích rủi ro', DepID=4
 WHERE EmID='MX003'
 
